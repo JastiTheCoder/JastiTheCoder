@@ -1,30 +1,41 @@
-### Hi there, I'm JastiTheCoder! 👋
+# Hi, I'm Karthik Jasti
 
-💻 **About Me:**  
-- 👀 I’m passionate about **Data Science and Machine Learning**.  
-- 🌱 Currently sharpening my skills in **Data Structures and Algorithms**.  
-- 🚀 Exploring **web development, automation, and AI-driven solutions**.  
-- 💡 Always eager to learn and collaborate on exciting projects!
+Computer Science undergraduate focused on full-stack development, applied AI/ML, and security-focused software projects.
 
-📚 **What I’m Learning:**  
-- 🏗️ Advanced **Data Structures & Algorithms**  
-- 🤖 **Machine Learning** and **AI Applications**  
-- 📊 **Data Analytics & Visualization**  
-- 🌐 **Full-Stack Web Development (MERN Stack)**  
+## About Me
 
-📬 **Let's Connect:**  
-- 🔗 [LinkedIn](#) `https://www.linkedin.com/in/karthik-jasti-6818762a0/`
-- 📧 Email me at: `karthikchess2005@gmail.com`  
+- Building projects with React.js, Node.js, Express.js, MongoDB, Python, and Java
+- Interested in full-stack development, machine learning, cybersecurity, and developer tools
+- Currently improving my skills in Data Structures, backend development, and ML model pipelines
+- Open to software development, full-stack, and AI/ML internship opportunities
 
-⚡ **Fun Fact:**  
-> "Machine learning models are like coffee – the stronger the data, the better the results!" ☕🤖  
+## Featured Projects
 
----
+### Movie Review Platform
+Full-stack MERN movie review platform with authentication, REST APIs, MongoDB, and dynamic rating management.
 
+Tech: React.js, Node.js, Express.js, MongoDB, JWT, bcrypt
 
+### Steganographic Message System
+Python-based security project that encrypts text using AES/RSA and hides ciphertext inside PNG images using LSB steganography.
 
+Tech: Python, AES, RSA, OpenCV, Cryptography
 
-<!---
-JastiTheCoder/JastiTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### eBPF-Based Malware Detection System
+Machine learning pipeline for detecting malicious PyPI packages using eBPF trace data, syscall behavior, file operations, and network activity.
+
+Tech: Python, XGBoost, BiLSTM, eBPF, cybersecurity
+
+## Tech Stack
+
+Languages: JavaScript, Python, Java, C  
+Frontend: React.js, HTML5, CSS3  
+Backend: Node.js, Express.js, REST APIs  
+Databases: MongoDB, PostgreSQL  
+AI/ML: NumPy, Pandas, scikit-learn, Matplotlib, Jupyter Notebook  
+Tools: Git, GitHub, Linux, VS Code, Postman
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/karthik-jasti-6818762a0
+- Email: karthikchess2005@gmail.com
