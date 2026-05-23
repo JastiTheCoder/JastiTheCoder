@@ -1,4 +1,4 @@
-# Hi, I am Karthik Jasti 👋
+# Hi, I'm Karthik Jasti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Computer Science undergraduate focused on **full-stack development**, **applied AI/ML**, and **security-focused software projects**.
 
