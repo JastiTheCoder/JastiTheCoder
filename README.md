@@ -85,9 +85,9 @@ Machine learning pipeline for detecting malicious PyPI packages using eBPF trace
 
 ## GitHub Stats
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=JastiTheCoder&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=JastiTheCoder&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JastiTheCoder&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JastiTheCoder&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ---
 
