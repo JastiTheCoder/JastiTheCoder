@@ -83,6 +83,13 @@ Machine learning pipeline for detecting malicious PyPI packages using eBPF trace
 
 ---
 
+### [ML-Driven Microstrip Patch Antenna Design](https://github.com/JastiTheCoder/ML-patch-antenna-design)
+ML pipeline that automates antenna design for 2.45 GHz — a Random Forest surrogate predicts performance and a genetic algorithm searches for the optimal geometry, validated in HFSS and on fabricated hardware.
+
+**Tech:** Python, scikit-learn, PyGAD, Random Forest, Genetic Algorithm, Ansys HFSS
+
+---
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Jasti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthik-jasti-6818762a0)
