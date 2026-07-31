@@ -42,12 +42,18 @@ Computer Science undergraduate focused on **full-stack development**, **applied 
 ### RF & Simulation
 ![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 ![RF/Antenna Design](https://img.shields.io/badge/RF_%2F_Antenna_Design-005A9C?style=for-the-badge&logo=wifi&logoColor=white)
+### LLM & Agentic Tools
+![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Granite](https://img.shields.io/badge/IBM_Granite-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Structured Output](https://img.shields.io/badge/Structured_LLM_Output-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
@@ -81,6 +87,14 @@ Machine learning pipeline for detecting malicious PyPI packages using eBPF trace
 ML pipeline that automates antenna design for 2.45 GHz — a Random Forest surrogate predicts performance and a genetic algorithm searches for the optimal geometry, validated in HFSS and on fabricated hardware.
 
 **Tech:** Python, scikit-learn, PyGAD, Random Forest, Genetic Algorithm, Ansys HFSS
+
+---
+
+### [VNForge — AI Visual Novel Compiler](https://github.com/Siefeldin-Sobih/VNForge)
+
+Desktop app that compiles plain prose scenes into playable Ren'Py visual novel scripts with branching choices, asset cues, and continuity validation. Built for the IBM AI Builders Challenge (team of 3). My role: testing and validation — built an automated pytest suite validating generated scripts without live API calls, hardened structured LLM output parsing, and verified end-to-end output against the Ren'Py engine.
+
+**Tech:** Python, IBM watsonx, IBM Granite, CustomTkinter, Pydantic, Ren'Py, pytest
 
 ---
 
